@@ -3,7 +3,7 @@ kit of fitness tools
 
 ## tools
 - evil russian calculator
-- becn press
+- bench press
 
 ## todo
 1. ### programs
